@@ -61,7 +61,7 @@ CardioXNet was built from the ground up to run on **ordinary laptops and desktop
 
 ## Demo
 
-[▶ Watch CardioXNet in action](https://drive.google.com/file/d/1EBJdmsjtfyDvHqxXjMrhcvQx5_1X4Hj7/view)
+[▶ Watch CardioXNet in action](https://drive.google.com/file/d/1FeJMfrf0MtAP7UOIyve92g7k_fuKUbU2/view?usp=sharing)
 
 ---
 
